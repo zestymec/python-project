@@ -1,10 +1,10 @@
-print("umer")
-
 def chai(n):
     print(n)
 
 chai("umer1")
 
-def umer(u):
-    print(u)
 
+
+chaione = "lemon lte"
+chaionew = "lemon ltesa"
+chaionee = "lemon ltesa132"
