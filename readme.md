@@ -13,3 +13,5 @@
 thonny.org for debug !
 
 comment in new concept to understand it next time !
+
+10.53
