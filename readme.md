@@ -14,7 +14,7 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-17 one !
+18 one !
 
 
       ---_ ......._-_--.
