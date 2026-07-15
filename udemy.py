@@ -12,8 +12,7 @@
 
 # value = "bana"
 # value2 = "na"
-# print(f'this fruite is {value + value2}')
-
+# s
 
 # values = name , age = "umer" , 10 
 # print(values)
