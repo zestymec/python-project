@@ -25,7 +25,7 @@
 
 # TypeError
 
-# print(len(12345)) 
+# print(len(12345))
 # print(type(True))
 # print(type(int("123")))
 # print(int("12")+123)
@@ -48,7 +48,19 @@
 
 # print(3 * 3 + 3 / 3 - 3 - 4)
 # f string method
-score=3
-height = 1.3
-iswinning = True
-print(f"Your score is = {score} and your height is {height} and you are winning is {iswinning}")
+# score=3
+# height = 1.3
+# iswinning = True
+# print(f"Your score is = {score} and your height is {height} and you are winning is {iswinning}")
+
+# print(150 * 0.12 )
+
+# day3
+# print("welcome to rollercoaster")
+
+# = sign of assignment
+# == is sign of "is equal to"
+# % is use to get this devision reminder liike 10 % 3 gives us 1 bcx 1 is reminder
+# print(10%3)
+
+
