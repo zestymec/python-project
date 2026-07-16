@@ -63,4 +63,8 @@
 # % is use to get this devision reminder liike 10 % 3 gives us 1 bcx 1 is reminder
 # print(10%3)
 
+# and operator both True
+# or operator any sigle is true
+# not operator ulta ho jay ga ! true ko false and false ko true kray ga 
+
 
