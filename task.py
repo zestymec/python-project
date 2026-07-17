@@ -66,5 +66,19 @@
 # and operator both True
 # or operator any sigle is true
 # not operator ulta ho jay ga ! true ko false and false ko true kray ga 
+# not ultta krde ga !
+# not True
 
+# day 4
+# randomization and lists
 
+#  
+# import random 
+
+# # umer = random.randint(3 , 9)
+# # print(umer)
+
+# umer = 2
+
+# lists used to store dataty
+fruits = ['umer' , 'hariss']

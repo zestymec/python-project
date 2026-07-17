@@ -14,7 +14,7 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-26 done !
+32 4 42
 
 
       ---_ ......._-_--.
