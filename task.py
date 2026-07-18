@@ -81,4 +81,12 @@
 # umer = 2
 
 # lists used to store dataty
-fruits = ['umer' , 'hariss']
+# fruits = ['umer' , 'hariss', 'kazim ' , 'sdsd']
+# print(fruits)
+# fruits[3] = "saad"
+# print(fruits)
+# idea = 'programers cunting always start from xero !'
+# print(idea)
+# fruits.append("kasmhiri")
+# print(fruits)
+
