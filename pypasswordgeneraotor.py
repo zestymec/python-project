@@ -12,14 +12,51 @@ chars = ['!', '#', '$', '%', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', '
 
 
 print("Welcome to the PyPassword Generator!")
-numberofletters = int((input("How many letter would you like in you password? ")))
-# Symbols = int((input("How many symbols would you like ?")))
-# Numbers = int(input("How many numbers would you like"))
+numberofletters = int((input("How many letter would you like in you password? \n")))
+Symbols = int((input("How many symbols would you like ?\n")))
+Numbers = int(input("How many numbers would you like\n"))
+
+totallpasslength = numberofletters + Symbols + Numbers
 
 # easy lvl
 
-password = ""
+# password = ""
+
+# for char in range(1 , numberofletters + 1):
+#     randomchar = random.choice(letters) 
+#     password += randomchar
+
+# for symbol in range(1 , Symbols + 1):
+#     randomsymbols = random.choice(chars)
+#     password += randomsymbols
+
+# for number in range(1 , Numbers + 1):
+#     randomnumbers = random.choice(numbers)
+#     password += randomnumbers
+
+# print(password)
+
+# hard level
+
+
+password = []
 
 for char in range(1 , numberofletters + 1):
     randomchar = random.choice(letters) 
-    print(randomchar)
+    password.append(randomchar)
+
+for symbol in range(1 , Symbols + 1):
+    randomsymbols = random.choice(chars)
+    password += randomsymbols
+
+for number in range(1 , Numbers + 1):
+    randomnumbers = random.choice(numbers)
+    password += randomnumbers
+
+realpass = ""
+
+for passchat in range(1 , totallpasslength + 1):
+    randompass = random.choice(password)
+    realpass += randompass
+
+print(f"your strongest pass is here {realpass}")
