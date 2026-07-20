@@ -82,11 +82,63 @@
 
 # lists used to store dataty
 # fruits = ['umer' , 'hariss', 'kazim ' , 'sdsd']
-# print(fruits)
-# fruits[3] = "saad"
-# print(fruits)
-# idea = 'programers cunting always start from xero !'
-# print(idea)
-# fruits.append("kasmhiri")
-# print(fruits)
+# vegetabels = [
+#     'alu', 'bengan' , 'pindi', 'kadoo'
+# ]
+# # print(fruits)
+# # fruits[3] = "saad"
+# # print(fruits)
+# # idea = 'programers cunting always start from xero !'
+# # print(idea)
+# # fruits.append("kasmhiri")
+# # print(fruits)
 
+# frveg = [fruits , vegetabels]
+
+# print(frveg)
+
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+ 
+# dirty_dozen = [fruits, vegetables]
+ 
+# print(dirty_dozen[1][1])
+
+# for us in fruits:
+#     print(us)
+#     print(us + "is a fruit name")
+
+# us = [us + "is a fruit name" for us in fruits]
+# print(us)
+
+# numbers = [22 ,23,21,434,652,87,86]
+# totallnumbers = sum(numbers)
+# print(totallnumbers)
+# baranumber = max(numbers)
+# sum = 0
+# for score in numbers:
+#     sum += score
+#     print(sum)
+
+# print(baranumber)
+# maxscore = 0
+# for score in numbers:
+#     if score > maxscore:
+#         maxscore = score
+#         print(maxscore)
+# total = 0
+# for number in range(1 , 1089):
+#     total +=number
+
+# print(total)
+
+
+for number in range(1 , 101):
+    if number%3 == 0 and number%5 == 0:
+        print("FizzBuzz")
+    elif number%3 == 0:
+        print("Fizz")
+    elif number%5 == 0:
+        print("Buzz")
+    else:
+        print(number)

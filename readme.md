@@ -14,7 +14,8 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-34 now!
+41 5 28
+
 
       ---_ ......._-_--.
       (|\ /      / /| \  \
