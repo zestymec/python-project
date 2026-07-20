@@ -82,11 +82,24 @@
 
 # lists used to store dataty
 # fruits = ['umer' , 'hariss', 'kazim ' , 'sdsd']
-# print(fruits)
-# fruits[3] = "saad"
-# print(fruits)
-# idea = 'programers cunting always start from xero !'
-# print(idea)
-# fruits.append("kasmhiri")
-# print(fruits)
+# vegetabels = [
+#     'alu', 'bengan' , 'pindi', 'kadoo'
+# ]
+# # print(fruits)
+# # fruits[3] = "saad"
+# # print(fruits)
+# # idea = 'programers cunting always start from xero !'
+# # print(idea)
+# # fruits.append("kasmhiri")
+# # print(fruits)
 
+# frveg = [fruits , vegetabels]
+
+# print(frveg)
+
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+ 
+dirty_dozen = [fruits, vegetables]
+ 
+print(dirty_dozen[1][1])

@@ -14,7 +14,7 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-now on 33
+34 done ! 13 39
 
 
       ---_ ......._-_--.
