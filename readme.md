@@ -14,7 +14,7 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-41 5 28
+43 done
 
 
       ---_ ......._-_--.

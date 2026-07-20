@@ -47,11 +47,14 @@ for char in range(1 , numberofletters + 1):
 
 for symbol in range(1 , Symbols + 1):
     randomsymbols = random.choice(chars)
-    password += randomsymbols
+    password.append(randomsymbols)
 
 for number in range(1 , Numbers + 1):
     randomnumbers = random.choice(numbers)
-    password += randomnumbers
+    password.append(randomnumbers)
+
+# passby = random.shuffle(password)
+# print(passby) dont now why it is not working !
 
 realpass = ""
 
@@ -60,3 +63,4 @@ for passchat in range(1 , totallpasslength + 1):
     realpass += randompass
 
 print(f"your strongest pass is here {realpass}")
+
