@@ -14,8 +14,7 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-now on 33
-
+34 now!
 
       ---_ ......._-_--.
       (|\ /      / /| \  \
