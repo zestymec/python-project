@@ -97,8 +97,8 @@
 
 # print(frveg)
 
-fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
-vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+# fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+# vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
  
 # dirty_dozen = [fruits, vegetables]
  
@@ -133,12 +133,37 @@ vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
 # print(total)
 
 
-for number in range(1 , 101):
-    if number%3 == 0 and number%5 == 0:
-        print("FizzBuzz")
-    elif number%3 == 0:
-        print("Fizz")
-    elif number%5 == 0:
-        print("Buzz")
-    else:
-        print(number)
+# for number in range(1 , 101):
+#     if number%3 == 0 and number%5 == 0:
+#         print("FizzBuzz")
+#     elif number%3 == 0:
+#         print("Fizz")
+#     elif number%5 == 0:
+#         print("Buzz")
+#     else:
+#         print(number)
+
+# def fun(n):
+#     print("hello")
+#     print(f"bye {n}")
+ 
+# fun(2)
+
+# indentattion
+
+# def fun(n):
+# # ----print("hello")
+#     print(f"bye {n}")
+
+# while loop
+
+# numbers = 4
+
+# while numbers > 0:
+#     print("yes")
+#     numbers -= 1
+#     print(numbers)
+# print(f"ho gyabbahi ! ye rah gya hay ! {numbers}")
+
+# Hangman
+

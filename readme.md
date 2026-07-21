@@ -1,3 +1,5 @@
+<!-- come back on 50 to complete hurdels after 15 --> half
+
 100 days of code started here
 
 1. using second screenn
@@ -14,7 +16,7 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-43 done
+53 done
 
 
       ---_ ......._-_--.
