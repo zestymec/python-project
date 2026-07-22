@@ -1,4 +1,4 @@
-<!-- come back on 50 to complete hurdels after 15 --> half
+<!-- come back on 50 to complete hurdels after 15 days --> half
 
 100 days of code started here
 
