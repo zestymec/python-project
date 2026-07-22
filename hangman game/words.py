@@ -1,0 +1,17 @@
+hangman_words = [
+    "python",
+    "developer",
+    "hangman",
+    "computer",
+    "keyboard",
+    "programming",
+    "challenge",
+    "variable",
+    "function",
+    "syntax",
+    "debugging",
+    "algorithm",
+    "software",
+    "interface",
+    "internet",
+]

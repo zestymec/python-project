@@ -16,7 +16,7 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-54 2.24
+57 done
 
 
       ---_ ......._-_--.
