@@ -16,7 +16,7 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-57 done
+63 done!
 
 
       ---_ ......._-_--.
@@ -35,3 +35,5 @@ comment in new concept to understand it next time !
       /^|            \ _ _ \*\
      '  `             \ _ _ \*\      
                        \__ _ \*\
+
+<!-- started at 15 july -->
