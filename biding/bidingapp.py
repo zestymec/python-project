@@ -3,6 +3,7 @@ import os
 
 print(logo)
 
+
 def findhighestvalue(database):
     winner = ""
     highestvalue = 0
@@ -11,11 +12,9 @@ def findhighestvalue(database):
         if bidamount > highestvalue:
             highestvalue = bidamount
             winner = bidder
-    if shouldcontinue == 'no':
-        print(f'so the winner is {winner} bidammount is {bidamount}')     
-    elif shouldcontinue == 'yes':
-         findhighestvalue(database) 
-    
+
+    print(f"so the winner is {winner} bidammount is {bidamount}")
+
 
 database = {}
 
@@ -26,12 +25,10 @@ while continuebidings:
     bidprice = int(input("what is your bid price $"))
     database[name] = bidprice
     shouldcontinue = input("is there is any other who want to bid \n").lower()
-    if shouldcontinue == 'no':
-            continuebidings = False
-            findhighestvalue(database)
-    elif shouldcontinue == 'yes':
-          os.system("cls" if os.name == "nt" else "clear")
-          continuebidings = True
-          findhighestvalue(database)
-
-
+    if shouldcontinue == "no":
+        continuebidings = False
+        findhighestvalue(database)
+    elif shouldcontinue == "yes":
+        os.system("cls" if os.name == "nt" else "clear")
+        continuebidings = True
+        

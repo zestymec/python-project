@@ -180,15 +180,18 @@
 
 # print(nestedlist[2][1])
 
-travellog = {
-"france" : {
-    "citiesvisited" : ['lahore' , "karachi"]
-   , 'umer' : 23
-},
-"german" : {
-    "berlin" : {'paksita' , 'afg'},
-    'paaris' : {'bjp'}
-}
-}
+# travellog = {
+# "france" : {
+#     "citiesvisited" : ['lahore' , "karachi"]
+#    , 'umer' : 23
+# },
+# "german" : {
+#     "berlin" : {'paksita' , 'afg'},
+#     'paaris' : {'bjp'}
+# }
+# }
 
-print(travellog["france"]["citiesvisited"][1])
+# print(travellog["france"]["citiesvisited"][1])
+
+# function output
+

@@ -16,7 +16,7 @@ thonny.org for debug !
 
 comment in new concept to understand it next time !
 
-70 done! 15;53
+73 done
 
 
       ---_ ......._-_--.
