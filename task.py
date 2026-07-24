@@ -65,15 +65,15 @@
 
 # and operator both True
 # or operator any sigle is true
-# not operator ulta ho jay ga ! true ko false and false ko true kray ga 
+# not operator ulta ho jay ga ! true ko false and false ko true kray ga
 # not ultta krde ga !
 # not True
 
 # day 4
 # randomization and lists
 
-#  
-# import random 
+#
+# import random
 
 # # umer = random.randint(3 , 9)
 # # print(umer)
@@ -99,9 +99,9 @@
 
 # fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
 # vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
- 
+
 # dirty_dozen = [fruits, vegetables]
- 
+
 # print(dirty_dozen[1][1])
 
 # for us in fruits:
@@ -146,7 +146,7 @@
 # def fun(n):
 #     print("hello")
 #     print(f"bye {n}")
- 
+
 # fun(2)
 
 # indentattion
@@ -165,5 +165,30 @@
 #     print(numbers)
 # print(f"ho gyabbahi ! ye rah gya hay ! {numbers}")
 
-# Hangman
+# nesting
 
+
+# umer ={
+#     "key": 19, "key2": [20, 23 , 74], "france": "umer"
+#     }
+# print(umer["key2"][0])
+# print(umer["key"])
+
+
+# nestedlist = ["a" , "b", ["c" , "d"]]
+
+
+# print(nestedlist[2][1])
+
+travellog = {
+"france" : {
+    "citiesvisited" : ['lahore' , "karachi"]
+   , 'umer' : 23
+},
+"german" : {
+    "berlin" : {'paksita' , 'afg'},
+    'paaris' : {'bjp'}
+}
+}
+
+print(travellog["france"]["citiesvisited"][1])
